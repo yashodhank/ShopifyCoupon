@@ -1,0 +1,5 @@
+{ "name" : “AustinCoupon”,
+  "coupon_type" : "percentage",
+  "value" : 12,
+  "minimum" : 10
+}
